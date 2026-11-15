@@ -1,13 +1,13 @@
 {
- "key": "67895e1e",
- "stars": 5,
- "contributions": 179,
+ "key": "8d251c78",
+ "stars": 6,
+ "contributions": 220,
  "repos": 14,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   4066665
+   4092959
   ],
   [
    "HTML",
@@ -15,11 +15,11 @@
   ],
   [
    "CSS",
-   1170499
+   1171673
   ],
   [
    "Rust",
-   1007417
+   1011123
   ],
   [
    "TeX",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 43,
+    "c": 84,
     "day": 15,
     "today": true
    },
@@ -131,9 +131,9 @@
   {
    "name": "hyper-lll",
    "url": "https://github.com/tetoverse/hyper-lll",
-   "text": "",
+   "text": "High-Precision Integer Relation & Hypergeometric Constant Discovery Engine in Pure Rust.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": []
   },
@@ -153,6 +153,15 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RaserWeb",
+   "url": "https://github.com/tetoverse/RaserWeb",
+   "text": "Server for the Raser app.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
    "topics": []
   }
  ],
@@ -178,7 +187,7 @@
   {
    "name": "RaserWeb",
    "url": "https://github.com/tetoverse/RaserWeb",
-   "text": "",
+   "text": "Server for the Raser app.",
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
@@ -191,6 +200,15 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hyper-lll",
+   "url": "https://github.com/tetoverse/hyper-lll",
+   "text": "High-Precision Integer Relation & Hypergeometric Constant Discovery Engine in Pure Rust.",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
    "topics": []
   },
   {
@@ -223,15 +241,6 @@
   {
    "name": "prime_hunter",
    "url": "https://github.com/tetoverse/prime_hunter",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "hyper-lll",
-   "url": "https://github.com/tetoverse/hyper-lll",
    "text": "",
    "fork": false,
    "stars": 0,
