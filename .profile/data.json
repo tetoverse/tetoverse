@@ -1,25 +1,25 @@
 {
- "key": "882f4d81",
+ "key": "38f109bc",
  "stars": 5,
- "contributions": 108,
+ "contributions": 155,
  "repos": 14,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   4699641
+   4037521
   ],
   [
    "HTML",
-   1211412
+   1199050
   ],
   [
    "CSS",
-   1164360
+   1170499
   ],
   [
    "Rust",
-   898712
+   990029
   ],
   [
    "TeX",
@@ -30,8 +30,8 @@
    86559
   ],
   [
-   "Nix",
-   2868
+   "Tape",
+   397
   ]
  ],
  "days": [
@@ -94,24 +94,24 @@
     "today": false
    },
    {
-    "c": 7,
+    "c": 12,
     "day": 12,
     "today": false
    },
    {
-    "c": 16,
+    "c": 25,
     "day": 13,
     "today": false
    },
    {
-    "c": 11,
+    "c": 25,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 0,
+    "c": 19,
     "day": 15,
     "today": true
    },
@@ -124,8 +124,8 @@
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 4,
+  "longest": 4
  },
  "pins": [
   {
@@ -153,15 +153,6 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "RaserNative",
-   "url": "https://github.com/tetoverse/RaserNative",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
    "topics": []
   }
  ],
