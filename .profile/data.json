@@ -1,17 +1,17 @@
 {
- "key": "38f109bc",
+ "key": "67895e1e",
  "stars": 5,
- "contributions": 155,
+ "contributions": 179,
  "repos": 14,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   4037521
+   4066665
   ],
   [
    "HTML",
-   1199050
+   1202366
   ],
   [
    "CSS",
@@ -19,7 +19,7 @@
   ],
   [
    "Rust",
-   990029
+   1007417
   ],
   [
    "TeX",
@@ -30,8 +30,8 @@
    86559
   ],
   [
-   "Tape",
-   397
+   "Python",
+   3599
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 19,
+    "c": 43,
     "day": 15,
     "today": true
    },
