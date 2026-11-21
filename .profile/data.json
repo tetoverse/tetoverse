@@ -1,33 +1,33 @@
 {
- "key": "a4d3cab8",
+ "key": "d2f2e799",
  "stars": 10,
- "contributions": 290,
- "repos": 14,
+ "contributions": 299,
+ "repos": 16,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   4168254
+   4175963
   ],
   [
    "HTML",
-   1203095
+   1205192
   ],
   [
    "CSS",
-   1171873
+   1177947
   ],
   [
    "Rust",
-   1036636
+   1066662
+  ],
+  [
+   "TypeScript",
+   334186
   ],
   [
    "TeX",
    121781
-  ],
-  [
-   "TypeScript",
-   86559
   ],
   [
    "Python",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 12,
     "day": 21,
     "today": true
    }
@@ -232,6 +232,24 @@
    "text": "",
    "fork": false,
    "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/tetoverse/portfolio",
+   "text": ".",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/tetoverse/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
    "language": "JavaScript",
    "topics": []
   },
