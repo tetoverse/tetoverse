@@ -1,29 +1,29 @@
 {
- "key": "76df049a",
- "stars": 10,
- "contributions": 299,
- "repos": 16,
+ "key": "a69b88d2",
+ "stars": 12,
+ "contributions": 349,
+ "repos": 18,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   4175963
+   4201151
   ],
   [
    "HTML",
-   1205192
+   1206512
   ],
   [
    "CSS",
-   1177947
+   1178861
   ],
   [
    "Rust",
-   1066662
+   1069380
   ],
   [
    "TypeScript",
-   334186
+   395724
   ],
   [
    "TeX",
@@ -104,14 +104,14 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 14,
     "day": 21,
     "today": false
    }
   ],
   [
    {
-    "c": 0,
+    "c": 48,
     "day": 22,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 5
  },
  "pins": [
@@ -156,11 +156,11 @@
    "topics": []
   },
   {
-   "name": "RaserWeb",
-   "url": "https://github.com/tetoverse/RaserWeb",
-   "text": "Server for the Raser app.",
+   "name": "register-the-dev.xyz",
+   "url": "https://github.com/tetoverse/register-the-dev.xyz",
+   "text": "Claim your free the-dev.xyz subdomain",
    "fork": false,
-   "stars": 2,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   }
@@ -203,12 +203,39 @@
    "topics": []
   },
   {
+   "name": "register-the-dev.xyz",
+   "url": "https://github.com/tetoverse/register-the-dev.xyz",
+   "text": "Claim your free the-dev.xyz subdomain",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "RaserNative",
    "url": "https://github.com/tetoverse/RaserNative",
    "text": "",
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "prime_hunter",
+   "url": "https://github.com/tetoverse/prime_hunter",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "the-dev.xyz",
+   "url": "https://github.com/tetoverse/the-dev.xyz",
+   "text": ".",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
    "topics": []
   },
   {
@@ -250,15 +277,6 @@
   {
    "name": "lemniscate-pcf-miner",
    "url": "https://github.com/tetoverse/lemniscate-pcf-miner",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "prime_hunter",
-   "url": "https://github.com/tetoverse/prime_hunter",
    "text": "",
    "fork": false,
    "stars": 0,
