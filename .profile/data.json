@@ -1,8 +1,8 @@
 {
- "key": "9e5dbb04",
+ "key": "a452211b",
  "stars": 12,
  "contributions": 349,
- "repos": 18,
+ "repos": 17,
  "followers": 1,
  "languages": [
   [
@@ -317,15 +317,6 @@
    "fork": true,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "gxmods",
-   "url": "https://github.com/tetoverse/gxmods",
-   "text": "Documentation for GX mods",
-   "fork": true,
-   "stars": 0,
-   "language": "CSS",
    "topics": []
   }
  ]
